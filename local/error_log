@@ -1,0 +1,8 @@
+[20-Mar-2020 13:36:37 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/clsrebornitmaran/public_html/local/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[20-Mar-2020 13:51:46 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/clsrebornitmaran/public_html/local/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[20-Mar-2020 13:54:48 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/clsrebornitmaran/public_html/local/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[20-Mar-2020 13:56:55 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/clsrebornitmaran/public_html/local/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[20-Mar-2020 13:57:40 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/clsrebornitmaran/public_html/local/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[02-Jul-2020 12:14:25 UTC] PHP Fatal error:  Allowed memory size of 1610612736 bytes exhausted (tried to allocate 268435456 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/DependencyResolver/Solver.php on line 223
+[02-Jul-2020 12:21:41 UTC] PHP Fatal error:  Allowed memory size of 1610612736 bytes exhausted (tried to allocate 268435456 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/DependencyResolver/Solver.php on line 223
+[03-Jul-2020 01:43:41 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/clsrebornitmaran/public_html/demo/local/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 465

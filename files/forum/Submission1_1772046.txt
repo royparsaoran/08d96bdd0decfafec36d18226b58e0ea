@@ -1,0 +1,6 @@
+ - Info identitas matakuliah saat mengklik keaktifan
+ - ada semester aktif
+ - PJS munculin satu forum lagi
+ - nama sebelah kelas mahasiswa 
+
+ +  sepek laravel dll. 
